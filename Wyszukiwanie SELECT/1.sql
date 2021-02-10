@@ -1,0 +1,1 @@
+SELECT name, origin FROM famous_cats;
