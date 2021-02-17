@@ -1,0 +1,1 @@
+SELECT * FROM movies WHERE "cast" LIKE '%Clint Eastwood%' AND director != 'Clint Eastwood';

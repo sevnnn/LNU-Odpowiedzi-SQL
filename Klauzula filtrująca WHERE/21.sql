@@ -1,0 +1,1 @@
+SELECT * FROM movies WHERE "cast" LIKE '%Tom Cruise%' ORDER BY year ASC;
