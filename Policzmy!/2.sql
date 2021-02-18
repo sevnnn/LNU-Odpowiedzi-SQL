@@ -1,0 +1,1 @@
+SELECT MAX(tail_length) FROM famous_cats WHERE origin IN ('Garfield', 'Smurfs', 'Looney Tunes');

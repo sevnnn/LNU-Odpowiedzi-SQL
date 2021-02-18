@@ -1,0 +1,1 @@
+SELECT COUNT(DISTINCT brand) FROM cell_phones;

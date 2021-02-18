@@ -1,0 +1,1 @@
+SELECT SUM(fine) FROM tickets WHERE driver_id = '62011713579' AND location = 'Los Angeles';

@@ -1,0 +1,1 @@
+SELECT brand, model, MIN(price) AS [min price] FROM cell_phones GROUP BY brand ORDER BY [min price] ASC;

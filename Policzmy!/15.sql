@@ -1,0 +1,1 @@
+SELECT SUM(fine) FROM tickets WHERE location = 'Chicago';

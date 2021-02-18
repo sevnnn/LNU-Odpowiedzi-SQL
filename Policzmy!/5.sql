@@ -1,0 +1,1 @@
+SELECT COUNT(id) FROM famous_cats WHERE tail_length LIKE '_6%';

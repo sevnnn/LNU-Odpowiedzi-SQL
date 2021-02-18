@@ -1,0 +1,1 @@
+SELECT MAX(screen) FROM cell_phones WHERE color NOT IN ('red', 'blue', 'pink');

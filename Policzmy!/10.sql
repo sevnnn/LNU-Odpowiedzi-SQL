@@ -1,0 +1,1 @@
+SELECT AVG(tail_length) FROM famous_cats WHERE origin = 'Garfield';

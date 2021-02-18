@@ -1,0 +1,1 @@
+SELECT location, AVG(fine) AS [average fine] FROM tickets GROUP BY location ORDER BY [average fine] DESC LIMIT 3;

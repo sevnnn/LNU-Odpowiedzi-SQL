@@ -1,0 +1,1 @@
+SELECT title, rating FROM movies WHERE rating >= (SELECT AVG(my_rating) FROM my_movies) ORDER BY rating DESC;

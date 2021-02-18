@@ -1,0 +1,1 @@
+SELECT ticket_nr, driver_id, fine AS [dolar], (fine * 0.85) AS [euro] FROM tickets;

@@ -1,0 +1,1 @@
+SELECT system, COUNT(id) FROM cell_phones GROUP BY system ORDER BY COUNT(id) DESC;

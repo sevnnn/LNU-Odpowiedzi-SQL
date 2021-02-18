@@ -1,0 +1,1 @@
+SELECT screen, AVG(price) AS [average price] FROM cell_phones GROUP BY screen ORDER BY [average price] DESC;

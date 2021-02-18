@@ -1,0 +1,1 @@
+SELECT MIN(tail_length) FROM famous_cats;

@@ -1,0 +1,1 @@
+SELECT COUNT(id) FROM cell_phones WHERE system = 'Android' AND color = 'black' AND brand IN ('Nokia', 'Samsung', 'Sony');

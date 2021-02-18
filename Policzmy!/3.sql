@@ -1,0 +1,1 @@
+SELECT MIN(price) FROM cell_phones WHERE system != 'Android';

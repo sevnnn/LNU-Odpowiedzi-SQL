@@ -1,0 +1,1 @@
+SELECT (licence_plate || ', ' || o_first_name || ' ' || o_family_name || ', ' || model) AS [vehicle info] FROM vehicles;

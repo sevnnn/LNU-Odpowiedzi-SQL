@@ -1,0 +1,1 @@
+SELECT brand, COUNT(id) FROM cell_phones GROUP BY brand;

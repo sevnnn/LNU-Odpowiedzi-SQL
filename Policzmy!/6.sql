@@ -1,0 +1,1 @@
+SELECT COUNT(id) FROM movies WHERE rating BETWEEN 7.5 AND 8.5;

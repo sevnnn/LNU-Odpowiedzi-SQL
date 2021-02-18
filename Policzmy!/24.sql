@@ -1,0 +1,1 @@
+SELECT driver_id, SUM(fine) AS [total fine] FROM tickets GROUP BY driver_id HAVING [total fine] > 100 ORDER BY [total fine] DESC;

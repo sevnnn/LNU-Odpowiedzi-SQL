@@ -1,0 +1,1 @@
+SELECT COUNT(id) FROM movies WHERE "cast" LIKE '%Vin Diesel%';

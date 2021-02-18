@@ -1,0 +1,1 @@
+SELECT SUM(tail_length) FROM famous_cats WHERE name LIKE '%a%';
