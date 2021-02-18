@@ -1,6 +1,6 @@
 <sup>postaralem sie zebrac jak najwiecej pytan moglem / crtl f to fajny skrot klawiszowy / prosze nie piszcie do mnie jak nie ma tu waszego pytania</sup>
 
-
+<br/>
 
 ### **Używając SQL wybierz wszystkie rekordy z tabeli 'Pojazd' dla których 'Marka' jest pmiędzy /też zawiera/ 'Fiat' i 'Volkswagen'.**
 
