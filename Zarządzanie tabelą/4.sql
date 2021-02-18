@@ -1,0 +1,1 @@
+CREATE TABLE bikes ( model TEXT, price FLOAT, stock INTEGER )

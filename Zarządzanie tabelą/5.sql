@@ -1,0 +1,1 @@
+CREATE TABLE barbie ( year INTEGER NOT NULL, career TEXT NOT NULL, description TEXT )
