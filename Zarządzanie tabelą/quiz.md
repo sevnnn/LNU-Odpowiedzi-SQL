@@ -1,8 +1,4 @@
-<sup>postaralem sie zebrac jak najwiecej pytan moglem
-  
-crtl f to fajny skrot klawiszowy
-
-prosze nie piszcie do mnie jak nie ma tu waszego pytania</sup>
+<sup>postaralem sie zebrac jak najwiecej pytan moglem / crtl f to fajny skrot klawiszowy / prosze nie piszcie do mnie jak nie ma tu waszego pytania</sup>
 
 
 
