@@ -1,1 +1,1 @@
-SELECT title, year, director FROM movies;
+SELECT title, type, "cast" FROM movies;

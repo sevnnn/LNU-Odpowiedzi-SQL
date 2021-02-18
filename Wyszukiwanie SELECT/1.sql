@@ -1,1 +1,1 @@
-SELECT name, origin FROM famous_cats;
+SELECT id, name, tail_length FROM famous_cats;

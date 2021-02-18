@@ -1,1 +1,1 @@
-SELECT * FROM movies ORDER BY year ASC;
+SELECT title, director FROM movies ORDER BY title ASC;

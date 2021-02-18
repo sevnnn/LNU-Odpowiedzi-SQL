@@ -1,1 +1,1 @@
-SELECT * FROM movies ORDER BY year ASC;
+SELECT * FROM movies ORDER BY rating DESC;
