@@ -1,0 +1,1 @@
+CREATE TABLE baked_goods ( id INTEGER PRIMARY KEY, item TEXT NOT NULL, price FLOAT )

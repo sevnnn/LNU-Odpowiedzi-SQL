@@ -1,0 +1,1 @@
+UPDATE cell_phones SET price = (price - 50) WHERE color IN ('silver', 'grey', 'red', 'blue')

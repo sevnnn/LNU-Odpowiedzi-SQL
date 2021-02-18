@@ -1,0 +1,1 @@
+DELETE FROM tickets WHERE driver_id = '42071355512' AND fine > 40;

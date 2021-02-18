@@ -1,0 +1,1 @@
+INSERT INTO movies VALUES(32, 'What''s Eating Gilbert Grape', 1993, 'drama', 'Lasse Hallstrom', 'Johnny Depp, Leonardo DiCaprio, Juliette Lewis', 7.8);

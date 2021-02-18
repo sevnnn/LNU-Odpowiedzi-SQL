@@ -1,0 +1,1 @@
+CREATE TABLE items ( name TEXT NOT NULL, amount INTEGER NOT NULL, price FLOAT DEFAULT '5.0' )

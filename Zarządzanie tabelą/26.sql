@@ -1,0 +1,1 @@
+INSERT INTO my_dolls (year, career, hair, name) VALUES (1965, 'astronaut', 'blond', 'Ripley');

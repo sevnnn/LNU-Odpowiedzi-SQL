@@ -1,0 +1,1 @@
+ALTER TABLE barbie RENAME TO my_dolls;

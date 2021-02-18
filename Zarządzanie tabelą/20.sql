@@ -1,0 +1,1 @@
+DELETE FROM movies WHERE "cast" NOT LIKE '%Clint Eastwood%';

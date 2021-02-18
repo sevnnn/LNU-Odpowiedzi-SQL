@@ -1,0 +1,1 @@
+CREATE TABLE contest ( name TEXT NOT NULL, result FLOAT CHECK (result >= 0) )

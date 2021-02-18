@@ -1,0 +1,1 @@
+INSERT INTO my_dolls VALUES(2, 1999, 'pilot', 'World''s best!', 'blond', 'Amelia'), (3, 2016, 'president', 'Women rule!', 'brunette', 'Hillary');

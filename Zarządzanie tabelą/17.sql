@@ -1,0 +1,1 @@
+ALTER TABLE my_dolls ADD COLUMN name TEXT;

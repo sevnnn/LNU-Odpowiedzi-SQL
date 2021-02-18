@@ -1,0 +1,1 @@
+UPDATE tickets SET fine = '100' WHERE fine > '100';

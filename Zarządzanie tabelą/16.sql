@@ -1,0 +1,1 @@
+ALTER TABLE best_albums ADD COLUMN songs_nr INTEGER CHECK (songs_nr > 0);

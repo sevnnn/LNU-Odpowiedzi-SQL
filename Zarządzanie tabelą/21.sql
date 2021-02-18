@@ -1,0 +1,1 @@
+DELETE FROM movies WHERE type = 'SF' ORDER BY rating ASC LIMIT 4;

@@ -1,0 +1,1 @@
+DELETE FROM best_movies_ever;

@@ -1,0 +1,1 @@
+CREATE TABLE barbie ( id INTEGER PRIMARY KEY AUTOINCREMENT, year INTEGER NOT NULL, career TEXT NOT NULL, description TEXT DEFAULT 'Awesome!', hair TEXT CHECK (hair IN ('blond', 'brunette')) )

@@ -1,0 +1,1 @@
+DELETE FROM famous_cats WHERE id = '1' OR id = '10';

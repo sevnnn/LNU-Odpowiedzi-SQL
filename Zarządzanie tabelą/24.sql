@@ -1,0 +1,1 @@
+INSERT INTO movies VALUES (31, 'Inception', 2010, 'SF', 'Christopher Nolan', 'Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page', 8.7)
