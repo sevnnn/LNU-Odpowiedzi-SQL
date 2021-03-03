@@ -1,6 +1,6 @@
 <sup>postaralem sie zebrac jak najwiecej pytan moglem / crtl f to fajny skrot klawiszowy / prosze nie piszcie do mnie jak nie ma tu waszego pytania</sup>
 
-<br/>
+<br />
 
 ### **Używając SQL wybierz wszystkie rekordy z tabeli 'Pojazd' dla których 'Marka' jest pmiędzy /też zawiera/ 'Fiat' i 'Volkswagen'.**
 
@@ -10,7 +10,7 @@ SELECT Marka>'Fiat' AND Marka<'Volkswagen' FROM Pojazd
 
 SELECT * FROM Pojazd WHERE Marka>'Fiat' AND Marka<'Volkswagen'
 
-<br/>
+<br />
 
 ### **Jak używając poleceń SQL wybierzesz dane z kolumny marka z tabeli pojazd:**
 
@@ -22,7 +22,7 @@ CASE Marka FROM Pojazd
 
 SELECT Pojazd.Marka
 
-<br/>
+<br />
 
 ### **Używając SQL dodaj nowy rekord do tabeli 'Pojazd'.**
 
@@ -32,7 +32,7 @@ INSERT ('Ford', 'Mondeo') INTO Pojazd
 
 INSERT VALUES ('Ford', 'Mondeo') INTO Pojazd
 
-<br/>
+<br />
 
 ### **Operator OR wybiera rekordy jeżeli spełniony jest PRZYNAJMNIEJ JEDEN podany warunek. Operator AND wybiera rekordy jeżeli są spełnione WSZYSTKIE podane warunki.**
 
@@ -40,7 +40,7 @@ INSERT VALUES ('Ford', 'Mondeo') INTO Pojazd
 
 Fałsz
 
-<br/>
+<br />
 
 ### **Jak używając poleceń SQL wybierzesz dane z WSZYSTKICH kolumn z tabeli pojazd:**
 
@@ -52,7 +52,7 @@ SELECT [all] FROM Pojazd
 
 SELECT Pojazd
 
-<br/>
+<br />
 
 ### **NOT NULL w definicji kolumny tabeli wymusza brak akceptacji wartości null**
 
@@ -60,7 +60,7 @@ SELECT Pojazd
 
 Fałsz
 
-<br/>
+<br />
 
 ### **Jaki operator używany jest przy wyszukiwaniu wartości z wybranego zakresu?**
 
@@ -70,7 +70,7 @@ RANGE
 
 **BETWEEN**
 
-<br/>
+<br />
 
 ### **Jakiego polecenia SQL używa się do wstawiania danych do bazy danych? / Jakiego polecenia SQL używa się do wstawiania danych do bazy danych:**
 
@@ -82,7 +82,7 @@ ADD RECORD
 
 ADD NEW
 
-<br/>
+<br />
 
 ### **Jakiego operatora używa się przy wyszukiwaniu okreslonego wzorca w kolumnie?**
 
@@ -92,7 +92,7 @@ FROM
 
 GET
 
-<br/>
+<br />
 
 ### **Co oznacza skrót SQL:**
 
@@ -102,7 +102,7 @@ Strong Question Language
 
 Structured Question Language
 
-<br/>
+<br />
 
 ### **Używając SQL dodaj nowy rekord do tabeli 'Pojazd' z wartością 'Opel' dla kolumnny 'Marka'.**
 
@@ -112,7 +112,7 @@ INSERT INTO Pojazd ('Opel') INTO Marka
 
 INSERT ('Opel') INTO Pojazd (Marka)
 
-<br/>
+<br />
 
 ### **Jakiego polecenia SQL używa się do aktualizacji danych w bazie danych:**
 
@@ -124,7 +124,7 @@ MODIFY
 
 SAVE
 
-<br/>
+<br />
 
 ### **Używając SQL wybierz wszystkie rekordy z tabeli 'Pojazd' gdzie 'Marka' to Skoda a 'Model' to Octavia.**
 
@@ -178,7 +178,7 @@ DELETE Marka='Fiat' FROM Pojazd
 
 DELETE ROW Marka='Fiat' FROM Pojazd
 
-<br/>
+<br />
 
 ### **Jakiego polecenia SQL używa się do kasowania danych z bazy danych:**
 
@@ -190,7 +190,7 @@ REMOVE
 
 CLEAN
 
-<br/>
+<br />
 
 ### **Jakie polecenie SQL należy użyć, aby utworzyć tabele w bazie danych ?**
 
@@ -202,7 +202,7 @@ CREATE DATABASE TABLE
 
 CREATE DATABASE TAB
 
-<br/>
+<br />
 
 ### **Używając SQL zwróć liczbę rekordów w tabeli 'Pojazd'.**
 SELECT COUNT() FROM Pojazd
@@ -213,7 +213,7 @@ SELECT COLUMNS() FROM Pojazd
 
 SELECT COLUMNS(*) FROM Pojazd
 
-<br/>
+<br />
 
 ### **Używając poleceń SQL wybierz WSZYSTKIE rekordy z tabeli 'Pojazd' dla których wartości kolumny 'Marka' zaczynają się na literę 's':**
 
@@ -225,7 +225,7 @@ SELECT * FROM Pojazd WHERE Marka='%s%'
 
 SELECT * FROM Pojazd WHERE Marka LIKE '%s'
 
-<br/>
+<br />
 
 ### **Używając SQL zmień 'Katowice' na 'Rzeszów' w kolumnie 'Miasto' w tabeli 'Pojazd'.**
 
@@ -237,7 +237,7 @@ UPDATE Pojazd SET Miasto='Katowice' INTO Miasto='Rzeszów'
 
 MODIFY Pojazd SET Miasto='Katowice' INTO Miasto='Rzeszów'
 
-<br/>
+<br />
 
 ### **Używając SQL zwróć wszystkie dane z tabeli 'Pojazd' sortując malejąco wg 'Marka'.**
 

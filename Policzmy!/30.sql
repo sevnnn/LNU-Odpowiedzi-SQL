@@ -1,1 +1,1 @@
--- skip
+SELECT id, ((test_1 + test_2 + test_3) / 3 * factor) AS [average] FROM samples WHERE id % 2 == 0 GROUP BY id ORDER BY [average] DESC;

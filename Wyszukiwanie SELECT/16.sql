@@ -1,3 +1,1 @@
-SELECT * FROM cell_phones ORDER BY price DESC LIMIT 10;
-
--- to powinno dzialac ale nie dziala idk czemu
+SELECT brand, model, price FROM cell_phones ORDER BY price DESC LIMIT 20, 10;
