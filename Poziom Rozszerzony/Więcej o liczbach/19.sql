@@ -1,0 +1,1 @@
+SELECT ABS(RANDOM()) % 5; 

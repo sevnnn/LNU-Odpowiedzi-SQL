@@ -1,0 +1,1 @@
+SELECT day, ((T0000 + T0060 + T1200 + T1800) / 4.0) as [avg] FROM temperature;

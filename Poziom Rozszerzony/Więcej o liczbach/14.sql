@@ -1,0 +1,1 @@
+SELECT (SUM(ABS(floor) * 2) * 2.5) AS [distance] FROM elevator;

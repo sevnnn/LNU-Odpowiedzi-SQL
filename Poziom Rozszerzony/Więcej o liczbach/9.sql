@@ -1,0 +1,1 @@
+SELECT model, ROUND(price) AS price FROM cell_phones;

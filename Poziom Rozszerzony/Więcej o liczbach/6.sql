@@ -1,0 +1,1 @@
+SELECT [#], name, (CAST(GP AS FLOAT) / W) AS [W%] FROM jai_alai;

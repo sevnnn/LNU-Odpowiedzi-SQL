@@ -1,0 +1,1 @@
+SELECT system, ROUND(AVG(price), 2) AS [avg price] FROM cell_phones GROUP BY system;

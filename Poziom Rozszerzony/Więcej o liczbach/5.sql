@@ -1,0 +1,1 @@
+SELECT country, GDP_2016, (CAST(GDP_2016 AS FLOAT) / population) AS [GDP per capita] FROM GDP ORDER BY [GDP per capita] DESC;

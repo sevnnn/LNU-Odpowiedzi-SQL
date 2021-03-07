@@ -1,0 +1,1 @@
+SELECT name, country, ROUND(price / items, 2) AS [price per item] FROM sausages;

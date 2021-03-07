@@ -1,0 +1,1 @@
+SELECT country, Y2010, Y2015, (Y2015 - Y2010) AS change, ROUND((Y2015 / CAST(Y2010 AS FLOAT ) - 1) * 100 , 1) AS [%] FROM population ORDER BY [%] DESC;

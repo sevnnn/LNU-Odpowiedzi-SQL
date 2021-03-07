@@ -1,0 +1,1 @@
+SELECT ward, (y_12 + y_13 + y_14 + y_15 + y_16) / CAST(population AS FLOAT) AS [crimes per capita] FROM crimes ORDER BY [crimes per capita] DESC;

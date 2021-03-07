@@ -1,0 +1,1 @@
+UPDATE famous_cats SET tail_length = ROUND((tail_length / 2.54 ), 2);
