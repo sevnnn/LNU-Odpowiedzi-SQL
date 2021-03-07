@@ -10,7 +10,7 @@ siema robie odpowiedzi do [ligi niezwyklych umyslow](https://www.lnu.org.pl/)
 - [x] Zarządzanie tabelą
 
 ## poziom rozszerzony
-- [ ] Więcej o liczbach
+- [x] Więcej o liczbach
 - [ ] Więcej o stringach
 - [ ] Łączenie tabel cz. 1
 - [ ] Łączenie tabel cz. 2
