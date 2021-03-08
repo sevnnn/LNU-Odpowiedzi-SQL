@@ -1,0 +1,1 @@
+SELECT * FROM crimes WHERE LIKE('%Cambridgeshire%', district);

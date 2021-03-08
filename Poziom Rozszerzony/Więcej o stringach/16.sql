@@ -1,0 +1,1 @@
+SELECT * FROM famous_cats WHERE GLOB('[A-M]*', name) ORDER BY name;

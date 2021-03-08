@@ -1,0 +1,1 @@
+SELECT * FROM tests WHERE SN GLOB '*a' OR SN GLOB '*b' OR SN GLOB '*c';

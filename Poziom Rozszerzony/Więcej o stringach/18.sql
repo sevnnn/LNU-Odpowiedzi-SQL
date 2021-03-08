@@ -1,0 +1,1 @@
+SELECT id, TRIM(title, '"') AS title, year, [type], director, [cast], rating FROM movies;

@@ -1,0 +1,1 @@
+SELECT * FROM pass WHERE password LIKE '%!_%' ESCAPE '!';

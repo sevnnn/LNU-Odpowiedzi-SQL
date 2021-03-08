@@ -1,0 +1,1 @@
+SELECT * FROM tests WHERE SN GLOB '[12345]*';

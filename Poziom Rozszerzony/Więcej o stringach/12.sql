@@ -1,0 +1,1 @@
+SELECT * FROM pass WHERE password GLOB '[a-z]*[*]*[0-9]' AND password GLOB '*[?]*';
