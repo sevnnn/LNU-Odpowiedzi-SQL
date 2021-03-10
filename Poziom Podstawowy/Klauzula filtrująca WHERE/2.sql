@@ -1,1 +1,1 @@
-SELECT * FROM famous_cats WHERE tail_length >=27;
+SELECT * FROM famous_cats WHERE year > 1999;
