@@ -1,0 +1,1 @@
+SELECT SUBSTR('abcdefgh', 5, 2 );

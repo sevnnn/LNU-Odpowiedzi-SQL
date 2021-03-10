@@ -1,0 +1,1 @@
+SELECT Color, LTRIM(Hex, '#') AS Hex, LTRIM(RTRIM(Dec, ')'), '(') AS Dec FROM colors;

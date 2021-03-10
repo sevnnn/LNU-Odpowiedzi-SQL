@@ -1,0 +1,1 @@
+SELECT Title, Description, LENGTH(Description) AS Length FROM movies ORDER BY Length DESC LIMIT 1;
