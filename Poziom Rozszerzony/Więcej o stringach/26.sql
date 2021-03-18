@@ -1,0 +1,1 @@
+SELECT ticket_nr, SUBSTR(date, 1, 4) AS year, LTRIM(SUBSTR(date, 6, 2), 0) AS month, LTRIM(SUBSTR(date, 9, 2), 0) AS day, driver_id FROM tickets;

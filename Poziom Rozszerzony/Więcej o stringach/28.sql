@@ -1,0 +1,1 @@
+SELECT Title, REPLACE(Genre, "Sci-Fi", "SF") AS Genre, Director, Actors FROM movies;

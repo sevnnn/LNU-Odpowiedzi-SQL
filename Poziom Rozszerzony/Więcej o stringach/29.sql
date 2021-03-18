@@ -1,0 +1,1 @@
+UPDATE tests SET SN = REPLACE(SN, "As", "Qs");

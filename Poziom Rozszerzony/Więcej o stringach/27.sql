@@ -1,0 +1,1 @@
+SELECT REPLACE('abc123ghi', '123', 'def');
