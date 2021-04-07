@@ -1,1 +1,1 @@
-SELECT * FROM cell_phones WHERE brand NOT IN ('Nokia', 'Microsoft');
+SELECT * FROM cell_phones WHERE brand NOT IN ('Apple', 'Nokia', 'Microsoft');
