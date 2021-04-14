@@ -1,1 +1,1 @@
-SELECT [#], name, (CAST(GP AS FLOAT) / W) AS [W%] FROM jai_alai;
+SELECT [#], name, CAST ( W AS FLOAT ) / GP * 100 AS [W%] FROM jai_alai ORDER BY [W%] DESC;
