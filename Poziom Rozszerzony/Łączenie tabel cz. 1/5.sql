@@ -1,0 +1,1 @@
+-- to jest tekst wariacie XD

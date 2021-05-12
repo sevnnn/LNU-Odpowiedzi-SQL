@@ -1,0 +1,1 @@
+SELECT title, last_name FROM books JOIN authors ON author_id = id;

@@ -1,0 +1,1 @@
+SELECT brand, model, ROUND( price / 1.15, 2 ) || ' ' || CHAR(8364) AS price FROM cell_phones;

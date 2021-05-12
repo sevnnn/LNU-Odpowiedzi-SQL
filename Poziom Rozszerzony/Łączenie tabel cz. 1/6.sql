@@ -1,0 +1,1 @@
+SELECT name, origin as title, authors FROM famous_cats, cartoons WHERE title = origin;

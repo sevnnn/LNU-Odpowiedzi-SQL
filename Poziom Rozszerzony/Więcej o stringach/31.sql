@@ -1,0 +1,1 @@
+SELECT UPPER(SN) AS [SN], COUNT(*) AS [tests] FROM tests GROUP BY UPPER(SN) ORDER BY tests DESC;

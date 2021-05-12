@@ -1,0 +1,1 @@
+SELECT signal, INSTR(signal, '--- ...- . .-.') AS over FROM morse_code;

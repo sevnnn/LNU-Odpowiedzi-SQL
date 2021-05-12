@@ -1,0 +1,1 @@
+SELECT * FROM chessboard_rows, chessboard_columns;

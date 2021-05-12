@@ -1,0 +1,1 @@
+SELECT DISTINCT o_first_name, o_family_name, LOWER(SUBSTR(o_first_name, 1, 3) || SUBSTR(o_family_name, 1, 3)) AS login FROM vehicles ORDER BY login;

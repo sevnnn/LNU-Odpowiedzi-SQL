@@ -14,7 +14,7 @@ siema robie odpowiedzi do [ligi niezwyklych umyslow](https://www.lnu.org.pl/)
 ## poziom rozszerzony
 
 - [x] Więcej o liczbach
-- [ ] **Więcej o stringach** (30/36)
-- [ ] Łączenie tabel cz. 1
+- [x] Więcej o stringach
+- [ ] **Łączenie tabel cz. 1** (7/23)
 - [ ] Łączenie tabel cz. 2
 - [ ] Kilka dodatkowych technik

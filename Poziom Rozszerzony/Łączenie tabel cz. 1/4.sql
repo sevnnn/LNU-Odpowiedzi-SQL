@@ -1,0 +1,1 @@
+SELECT name, country FROM famous_cats, cartoons WHERE origin = title;
