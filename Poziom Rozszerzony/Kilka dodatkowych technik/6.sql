@@ -1,0 +1,1 @@
+SELECT id, first_name, last_name, CASE WHEN (SELECT count(name) FROM M_names WHERE name = first_name) THEN 'M' WHEN (SELECT count(name) FROM W_names WHERE name = first_name) THEN 'W' END AS sex FROM employees ORDER BY last_name;
