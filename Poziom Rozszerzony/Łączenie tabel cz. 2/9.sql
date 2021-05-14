@@ -1,0 +1,1 @@
+SELECT a.id, last_name, first_name, title, publisher FROM authors AS a LEFT JOIN books ON a.id = books.author_id LEFT JOIN publishers AS p ON books.publisher_id = p.id ORDER BY last_name, first_name, title;

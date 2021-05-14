@@ -1,0 +1,1 @@
+SELECT * FROM technic UNION SELECT * FROM city;
