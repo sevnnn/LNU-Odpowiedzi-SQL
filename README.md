@@ -15,6 +15,6 @@ siema robie odpowiedzi do [ligi niezwyklych umyslow](https://www.lnu.org.pl/)
 
 - [x] Więcej o liczbach
 - [x] Więcej o stringach
-- [ ] **Łączenie tabel cz. 1** (7/23)
-- [ ] Łączenie tabel cz. 2
-- [ ] Kilka dodatkowych technik
+- [x] Łączenie tabel cz. 1
+- [x] Łączenie tabel cz. 2
+- [x] Kilka dodatkowych technik
