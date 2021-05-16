@@ -18,3 +18,7 @@ siema robie odpowiedzi do [ligi niezwyklych umyslow](https://www.lnu.org.pl/)
 - [x] Łączenie tabel cz. 1
 - [x] Łączenie tabel cz. 2
 - [x] Kilka dodatkowych technik
+
+## contributorsi
+
+@m1k53r - wiekszosc poziomu rozszerzonego
