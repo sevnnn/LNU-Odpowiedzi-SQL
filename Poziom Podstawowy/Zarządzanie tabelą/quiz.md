@@ -248,3 +248,15 @@ SELECT * FROM Pojazd ORDER Marka DESC
 **SELECT * FROM Pojazd ORDER BY Marka DESC**
 
 SELECT * FROM Pojazd SORT BY 'Marka' DESC
+
+<br />
+
+### **Jakiego polecenia SQL używa się do wybierania danych z bazy danych:**
+
+OPEN
+
+GET
+
+**SELECT**
+
+EXTRACT
