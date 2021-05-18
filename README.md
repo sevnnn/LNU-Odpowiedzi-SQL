@@ -22,4 +22,6 @@ siema robie odpowiedzi do [ligi niezwyklych umyslow](https://www.lnu.org.pl/)
 ## contributorsi
 
 @m1k53r - wiekszosc poziomu rozszerzonego
+
+
 @pxseu - brakujace pytania do quizu
